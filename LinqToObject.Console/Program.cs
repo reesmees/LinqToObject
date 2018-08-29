@@ -10,6 +10,7 @@ namespace LinqToObject.Console
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
